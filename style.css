@@ -5,9 +5,9 @@ body {
     margin: 0;
 }
 body {
-    font-family: 'Courgette', cursive;
-    background: #fbb2fb;
-    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    background: #fff; 
+    color: #000;
 }
 .wrapper {
     padding: 0 15px;
@@ -15,7 +15,6 @@ body {
 .wedding-main-img {
     background: center/contain url('./1.svg') no-repeat;
     height: 40vh;
-    width: 100vw;
 }
 .wedding-title,
 .wedding-text,
