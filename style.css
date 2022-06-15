@@ -1,0 +1,41 @@
+html,
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Courgette', cursive;
+    background: #fbb2fb;
+    color: #fff;
+}
+.wrapper {
+    padding: 0 15px;
+}
+.wedding-main-img {
+    background: center/contain url('./1.svg') no-repeat;
+    height: 40vh;
+    width: 100vw;
+}
+.wedding-title,
+.wedding-text,
+.wedding-persons-name,
+.wedding-ps-text {
+    text-align: center;
+}
+.wedding-title {
+    font-size: 30px;
+}
+.wedding-text {
+    padding: 0;
+    margin: 0;
+}
+.wedding-persons-name {
+    font-size: 25px;
+}
+.wedding-text,
+.wedding-ps-text {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
